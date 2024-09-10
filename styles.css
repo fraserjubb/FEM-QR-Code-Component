@@ -11,9 +11,16 @@
   --text-size-paragraph: 1.5rem;
   --text-size-title: 2.2rem;
 
-  /* Text Weight: */
+  /* Font Weight: */
   --normal-weight: 400;
   --bold-weight: 700;
+
+  /* Line Height: */
+  --lh-title: 1.2;
+  --lh-paragraph: 1.4;
+
+  /* Letter Spacing: */
+  --l-space-small: 0.2px;
 
   /* Spacing: */
   --space-500: 40px;
@@ -30,7 +37,8 @@
 body {
   font-family: "Outfit", sans-serif;
   font-size: var(--text-size-paragraph);
-  line-height: 1.8;
+  line-height: var(--lh-paragraph);
+  letter-spacing: var(--l-space-small);
   background-color: var(--slate-300);
   color: var(--slate-500);
 }
@@ -39,4 +47,51 @@ html {
   /* (10px / 16px) * 100 */
   font-size: 62.5%;
   /* changes 1rem to equal 10px */
+}
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: var(--white);
+  width: 320px;
+  height: 499px;
+  border-radius: 20px;
+  padding: var(--space-200) var(--space-200) var(--space-500) var(--space-200);
+
+  box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
+  /* <OPTIONAL: radius/scale the shadow up> <color of the shadow>;  */
+}
+
+.qr-code {
+  height: 288px;
+  width: 288px;
+  border-radius: 10px;
+  margin-bottom: var(--space-300);
+}
+
+.card-text {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-align: center;
+  padding: 0 16px;
+}
+
+.card-title {
+  color: var(--slate-900);
+  font-size: var(--text-size-title);
+  font-weight: var(--bold-weight);
+  line-height: var(--lh-title);
+  letter-spacing: normal;
+}
+
+.card-description {
+  font-size: var(--text-size-paragraph);
+  font-weight: var(--bold-weight);
 }
