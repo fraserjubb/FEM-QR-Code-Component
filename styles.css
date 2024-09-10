@@ -1,7 +1,42 @@
-/* .attribution {
-  font-size: 11px;
-  text-align: center;
+:root {
+  /* Colors: */
+  --white: #fff;
+  --slate-300: #d5e1ef;
+  --slate-500: #68778d;
+  --slate-900: #1f314f;
+  --blue-600: #2c7dfa;
+  --blue-500: #3685ff;
+
+  /* Font Size: */
+  --text-size-paragraph: 1.5rem;
+  --text-size-title: 2.2rem;
+
+  /* Text Weight: */
+  --normal-weight: 400;
+  --bold-weight: 700;
+
+  /* Spacing: */
+  --space-500: 40px;
+  --space-300: 24px;
+  --space-200: 16px;
 }
-.attribution a {
-  color: hsl(228, 45%, 44%);
-} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  font-size: var(--text-size-paragraph);
+  line-height: 1.8;
+  background-color: var(--slate-300);
+  color: var(--slate-500);
+}
+
+html {
+  /* (10px / 16px) * 100 */
+  font-size: 62.5%;
+  /* changes 1rem to equal 10px */
+}
