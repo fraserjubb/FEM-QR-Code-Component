@@ -50,7 +50,7 @@ html {
 }
 
 .container {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -65,12 +65,10 @@ html {
   padding: var(--space-200) var(--space-200) var(--space-500) var(--space-200);
 
   box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
-  /* <OPTIONAL: radius/scale the shadow up> <color of the shadow>;  */
 }
 
-.qr-code {
-  height: 288px;
-  width: 288px;
+.qr-code-img {
+  width: 100%;
   border-radius: 10px;
   margin-bottom: var(--space-300);
 }
