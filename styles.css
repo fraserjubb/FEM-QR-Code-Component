@@ -2,14 +2,17 @@
   /* Colors: */
   --white: #fff;
   --slate-300: #d5e1ef;
+  --slate-400: #94a3b8;
   --slate-500: #68778d;
   --slate-900: #1f314f;
   --blue-600: #2c7dfa;
   --blue-500: #3685ff;
+  --blue: #184280;
 
   /* Font Size: */
   --text-size-paragraph: 1.5rem;
   --text-size-title: 2.2rem;
+  --text-size-small: 1.2rem;
 
   /* Font Weight: */
   --normal-weight: 400;
@@ -92,4 +95,34 @@ html {
 .card-description {
   font-size: var(--text-size-paragraph);
   font-weight: var(--bold-weight);
+}
+
+.footer-text {
+  font-size: var(--text-size-small);
+  color: var(--blue);
+  text-align: center;
+  margin-bottom: var(--space-300);
+}
+
+/* Default State */
+.footer-link:link {
+  /* color: var(--blue-600); */
+  color: #0057da;
+  text-decoration: none;
+}
+
+/* Visited State */
+.footer-link:visited {
+  /* color: var(--blue-600); */
+  color: #0057da;
+}
+
+/* State On Hover */
+.footer-link:hover {
+  color: var(--blue-600);
+}
+
+/* State Whilst Being Clicked */
+.footer-link:active {
+  color: var(--blue-600);
 }
