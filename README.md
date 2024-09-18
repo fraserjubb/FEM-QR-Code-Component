@@ -103,6 +103,6 @@ _Note: In the coming weeks/months ahead, I plan to update this README file - par
 - Frontend Mentor - [@fraserjubb](https://www.frontendmentor.io/profile/fraserjubb)
 - LinkedIn - [@fraserjubb](https://www.linkedin.com/in/fraser-jubb/)
 - GitHub - [@fraserjubb](https://github.com/fraserjubb)
-- Twitter - [@fraserjubb_dev](https://www.twitter.com/fraserjubb_dev)
+- Twitter - [@fraserjubb](https://www.twitter.com/fraserjubb)
 - Instagram - [@thejubbzone](https://www.instagram.com/thejubbzone/) - this is where I post 3D art and video game development progress.
 - YouTube - [@thejubbzone](https://www.youtube.com/@thejubbzone2374/)
