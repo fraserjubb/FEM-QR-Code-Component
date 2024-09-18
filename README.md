@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Project Screenshot
 
-![](Solution-Fraser.png)
+![Screenshot of solution](/images/solution-fraser.png)
 
 ### Project Links
 
@@ -77,9 +77,9 @@ In this particular project:
 }
 ```
 
-2. This was my first project that involved using a Figma file for reference. It was a little overwhelming at first but I have managed to grasp the basics.
+2. This was my first project that involved using a Figma file for reference. It was a little overwhelming at first but I have managed to grasp the basics of navigation in Figma.
 
-3. In the brief for this project, I learned about the screenshot tool, FireShot. A simple tool that can create screenshots of entire webpages with ease. Might consider getting the Pro version in the future.
+3. In the brief for this project, I learned about the screenshot tool, FireShot. A simple tool that can create screenshots of entire webpages with ease. I might consider getting the Pro version in the future.
 
 4. Finally, this is also my first proper README file and having a proper look at Markdown syntax.
 
@@ -101,6 +101,8 @@ After submitting this project, I wish to develop the following:
 _Note: In the coming weeks/months ahead, I plan to update this README file - particularly the Author section below as I get better links to share to connect with others._
 
 - Frontend Mentor - [@fraserjubb](https://www.frontendmentor.io/profile/fraserjubb)
+- LinkedIn - [@fraserjubb](https://www.linkedin.com/in/fraser-jubb/)
 - GitHub - [@fraserjubb](https://github.com/fraserjubb)
-- Twitter - [@fraserjubb](https://www.twitter.com/fraserjubb)
+- Twitter - [@fraserjubb_dev](https://www.twitter.com/fraserjubb_dev)
 - Instagram - [@thejubbzone](https://www.instagram.com/thejubbzone/) - this is where I post 3D art and video game development progress.
+- YouTube - [@thejubbzone](https://www.youtube.com/@thejubbzone2374/)
