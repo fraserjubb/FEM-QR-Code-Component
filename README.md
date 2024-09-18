@@ -1,20 +1,20 @@
-# Frontend Mentor - QR code component solution - Fraser Jubb
+# FM - QR code component solution - Fraser Jubb
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Table of contents
+## 📖 Table of contents
 
 - [Overview](#overview)
   - [Project Screenshot](#project-screenshot)
   - [Project Links](#project-links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Where to find me](#where-to-find-me)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+  - [Useful Resources](#useful-resources)
+- [Connect With Me](#connect-with-me)
 
-## Overview
+## 🔭 Overview
 
 ### Project Screenshot
 
@@ -26,15 +26,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Click Here](https://fm-qrcodecomponent-fraser.netlify.app/)
 - Frontend Mentor Profile: [@fraserjubb](https://www.frontendmentor.io/profile/fraserjubb)
 
-## My process
+## 📈 My Process
 
-### Built with
+### Built With
 
 - HTML
 - CSS
 - Desktop-first workflow
 
-### What I learned
+### What I Learned
 
 It felt good finally creating something that was _not_ from a tutorial.
 
@@ -84,7 +84,7 @@ In this particular project:
 
 4. Finally, this is also my first proper README file and having a proper look at Markdown syntax.
 
-### Continued development
+### Continued Development
 
 After submitting this project, I wish to develop the following:
 
@@ -92,12 +92,12 @@ After submitting this project, I wish to develop the following:
 
 2. Increase my understanding of Figma, particularly navigation. This will likely come through further practice in future projects.
 
-### Useful resources
+### Useful Resources
 
 - [Tailwind CSS Colors](https://tailwindcss.com/docs/customizing-colors) - After referencing the Figma file, I figured out that the colors were named/created using Tailwind CSS. Finding this then helped me for identifying additional colors to use (mainly in the footer).
 - [CSS Variables Tutorial - YouTube](https://www.youtube.com/watch?v=oZPR_78wCnY) - I am someone who learns better through video tutorials. This is a fantastic and concise video which helped me get straight into making my own variables. I'd recommend this channel to anyone learning Web Development.
 
-## Where to find me
+## 🤝 Connect With Me
 
 <a href="https://github.com/fraserjubb"><img height="30px" align="left" alt="GitHub" style="padding-right:10px" title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/fraser-jubb"><img height="30px" align="left" alt="LinkedIn" style="padding-right:10px" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
