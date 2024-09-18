@@ -24,6 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Add solution URL](https://your-solution-url.com)
 - Live Site URL: [Click Here](https://fm-qrcodecomponent-fraser.netlify.app/)
+- Frontend Mentor Profile: [@fraserjubb](https://www.frontendmentor.io/profile/fraserjubb)
 
 ## My process
 
@@ -98,11 +99,13 @@ After submitting this project, I wish to develop the following:
 
 ## Where to find me
 
-_Note: In the coming weeks/months ahead, I plan to update this README file - particularly the Author section below as I get better links to share to connect with others._
+<a href="https://github.com/fraserjubb"><img height="30px" align="left" alt="GitHub" style="padding-right:10px" title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fraser-jubb"><img height="30px" align="left" alt="LinkedIn" style="padding-right:10px" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/thejubbzone/"><img height="30px" align="left" alt="Instagram" style="padding-right:10px" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white"/></a>
+<a href="https://x.com/fraserjubb"><img height="30px" align="left" alt="X" style="padding-right:10px" title="X" src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white"/></a>
+<a href="https://www.youtube.com/@thejubbzone2374"><img height="30px" align="left" alt="YouTube" style="padding-right:10px" title="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=YouTube&logoColor=white"/></a>
+<a href="mailto:fraserjubb.dev@gmail.com"><img height="30px" align="left" alt="Gmail" style="padding-right:10px" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/></a>
 
-- Frontend Mentor - [@fraserjubb](https://www.frontendmentor.io/profile/fraserjubb)
-- LinkedIn - [@fraserjubb](https://www.linkedin.com/in/fraser-jubb/)
-- GitHub - [@fraserjubb](https://github.com/fraserjubb)
-- Twitter - [@fraserjubb](https://www.twitter.com/fraserjubb)
-- Instagram - [@thejubbzone](https://www.instagram.com/thejubbzone/) - this is where I post 3D art and video game development progress.
-- YouTube - [@thejubbzone](https://www.youtube.com/@thejubbzone2374/)
+<br/>
+
+#
