@@ -4,17 +4,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## 📖 Table of contents
 
-- [Overview](#🔭-overview)
+- [Overview](#overview)
   - [Project Screenshot](#project-screenshot)
   - [Project Links](#project-links)
-- [My Process](#📈-my-process)
+- [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
   - [Continued Development](#continued-development)
   - [Useful Resources](#useful-resources)
-- [Connect With Me](#🤝-connect-with-me)
+- [Connect With Me](#connect-with-me)
 
-## 🔭 Overview
+## Overview
 
 ### Project Screenshot
 
@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: [Click Here](https://fm-qrcodecomponent-fraser.netlify.app/)
 - Frontend Mentor Profile: [@fraserjubb](https://www.frontendmentor.io/profile/fraserjubb)
 
-## 📈 My Process
+## My Process
 
 ### Built With
 
@@ -97,7 +97,7 @@ After submitting this project, I wish to develop the following:
 - [Tailwind CSS Colors](https://tailwindcss.com/docs/customizing-colors) - After referencing the Figma file, I figured out that the colors were named/created using Tailwind CSS. Finding this then helped me for identifying additional colors to use (mainly in the footer).
 - [CSS Variables Tutorial - YouTube](https://www.youtube.com/watch?v=oZPR_78wCnY) - I am someone who learns better through video tutorials. This is a fantastic and concise video which helped me get straight into making my own variables. I'd recommend this channel to anyone learning Web Development.
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <a href="https://github.com/fraserjubb"><img height="30px" align="left" alt="GitHub" style="padding-right:10px" title="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/fraser-jubb"><img height="30px" align="left" alt="LinkedIn" style="padding-right:10px" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
