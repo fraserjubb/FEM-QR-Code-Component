@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Project Links
 
-- Solution URL: [Add solution URL](https://your-solution-url.com)
+- Solution URL: [Click Here](https://www.frontendmentor.io/solutions/qr-code-component-solution---challenge-1-CvYz9qbKUm)
 - Live Site URL: [Click Here](https://fm-qrcodecomponent-fraser.netlify.app/)
 - Frontend Mentor Profile: [@fraserjubb](https://www.frontendmentor.io/profile/fraserjubb)
 
@@ -78,7 +78,7 @@ In this particular project:
 }
 ```
 
-2. This was my first project that involved using a Figma file for reference. It was a little overwhelming at first but I have managed to grasp the basics of navigation in Figma.
+2. This was my first project that involved using a Figma file for reference. It was a little overwhelming at first but I have managed to grasp the basics of navigation in the app.
 
 3. In the brief for this project, I learned about the screenshot tool, FireShot. A simple tool that can create screenshots of entire webpages with ease. I might consider getting the Pro version in the future.
 
