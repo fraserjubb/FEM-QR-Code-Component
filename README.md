@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I Learned](#what-i-learned)
   - [Continued Development](#continued-development)
   - [Useful Resources](#useful-resources)
+- [Noteworthy Updates Since Initial Submission](#noteworthy-updates-since-initial-submission)
 - [Connect With Me](#connect-with-me)
 
 ## Overview
@@ -99,6 +100,12 @@ After submitting this project, I wish to develop the following:
 
 - [Tailwind CSS Colors](https://tailwindcss.com/docs/customizing-colors) - After referencing the Figma file, I figured out that the colors were named/created using Tailwind CSS. Finding this then helped me for identifying additional colors to use (mainly in the footer).
 - [CSS Variables Tutorial - YouTube](https://www.youtube.com/watch?v=oZPR_78wCnY) - I am someone who learns better through video tutorials. This is a fantastic and concise video which helped me get straight into making my own variables. I'd recommend this channel to anyone learning Web Development.
+
+## Noteworthy Updates Since Initial Submission
+
+1. Font is now self-hosted.
+2. Class names are now using BEM methodology.
+3. Updated CSS variable names to improve readability.
 
 ## Connect With Me
 
