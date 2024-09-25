@@ -11,7 +11,8 @@
   --blue-900: #1e3a8a;
 
   /* Font Family */
-  --ff-base: "Outfit", sans-serif;
+  --ff-base: "Outfit";
+  /* , sans-serif; */
 
   /* Font Size: */
   --fs-small: 0.75rem /* 12px */;
@@ -35,6 +36,29 @@
   --sp-16px: 1rem;
 }
 
+/* 
+********************************
+SELF-HOSTING FONT:
+********************************
+*/
+
+/* VARIABLE FONT: */
+@font-face {
+  font-family: "Outfit";
+  src: url("/assets/fonts/Outfit-VariableFont_wght.woff2")
+    format("woff2 supports variations");
+  src: url("/assets/fonts/Outfit-VariableFont_wght.woff2")
+    format("woff2-variations");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* 
+********************************
+GLOBAL CSS VALUES:
+********************************
+*/
 * {
   margin: 0;
   padding: 0;
@@ -55,7 +79,6 @@ body {
 MAIN:
 ********************************
 */
-
 .container {
   min-height: 100vh;
   display: flex;
