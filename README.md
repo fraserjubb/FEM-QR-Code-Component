@@ -55,34 +55,37 @@ In this particular project:
   --blue-700: #1d4ed8;
   --blue-900: #1e3a8a;
 
+  /* Font Family */
+  --ff-base: "Outfit", sans-serif;
+
   /* Font Size: */
-  --fs-h2: 2.2rem;
-  --fs-p-normal: 1.5rem;
-  --fs-p-small: 1.2rem;
+  --fs-small: 0.75rem /* 12px */;
+  --fs-base: 0.9375rem; /* 15px */
+  --fs-h2: 1.375rem; /* 22px */
 
   /* Font Weight: */
-  --fw-normal: 400;
+  --fw-base: 400;
   --fw-bold: 700;
 
   /* Line Height: */
   --lh-h2: 1.2;
-  --lh-p: 1.4;
+  --lh-base: 1.4;
 
   /* Letter Spacing: */
-  --ls-small: 0.2px;
+  --ls-base: 0.2px;
 
   /* Spacing: */
-  --space-40: 40px;
-  --space-24: 24px;
-  --space-16: 16px;
+  --sp-40px: 2.5rem;
+  --sp-24px: 1.5rem;
+  --sp-16px: 1rem;
 }
 ```
 
 2. This was my first project that involved using a Figma file for reference. It was a little overwhelming at first but I have managed to grasp the basics of navigation in the app.
 
-3. In the brief for this project, I learned about the screenshot tool, FireShot. A simple tool that can create screenshots of entire webpages with ease. I might consider getting the Pro version in the future.
+3. In the brief for this project, I learned about the screenshot tool, [FireShot](https://getfireshot.com/). A simple tool that can create screenshots of entire webpages with ease. I might even consider getting the Pro version in the future.
 
-4. Finally, this is also my first proper README file and having a proper look at Markdown syntax.
+4. Finally, this is also my first time writing a detailed README file and having a proper look at Markdown syntax.
 
 ### Continued Development
 
